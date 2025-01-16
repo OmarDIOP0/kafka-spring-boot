@@ -4,6 +4,11 @@ Ce projet est une application Spring Boot intégrée avec Kafka. Elle illustre c
 
 ---
 
+---
+### **Résumé des étapes**
+1. Configurez Kafka et Zookeeper avec Docker Compose.  
+2. Développez une application Spring Boot pour produire et consommer des messages Kafka.😊
+
 ## **Prérequis**
 
 Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votre machine :
