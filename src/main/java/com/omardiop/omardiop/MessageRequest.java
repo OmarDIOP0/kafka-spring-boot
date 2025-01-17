@@ -1,5 +1,4 @@
 package com.omardiop.omardiop;
 
-public record MessageRequest(String message) {
+public record MessageRequest(String message) {}
 
-}
